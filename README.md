@@ -59,4 +59,6 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Built-in FPS capper (30fps-240fps)
 ---
 # Preview of the settings
-![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/1fd3b7b6-893d-40bf-a416-1a1d102a1f40)
+(*settings without*) ![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/8fd0f296-96ff-44c6-ba77-1feee26681e1)
+
+(*settings with*) ![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/1fd3b7b6-893d-40bf-a416-1a1d102a1f40)
