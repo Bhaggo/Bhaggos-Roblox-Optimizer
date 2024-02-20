@@ -10,3 +10,5 @@ Includes
 * max fps file from @BhaggoYT
 * max graphics file from @BhaggoYT
 * basic changes with renderer changer
+
+Simple program so far, will update it regularly time to time and I will also create a complete revamp one day coded in C++ so it can work for mac users and also I would revamp if it gets a lot of downloads or something.
