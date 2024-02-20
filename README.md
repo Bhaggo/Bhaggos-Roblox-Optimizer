@@ -39,6 +39,7 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Beta performance mode fflag used
 * Disable Post FX
 * Disable player shadows
+* Disables anti aliasing
 
 # MAX FPS file changes:
 * Force voxel lighting (may not work properly with some games)
@@ -48,6 +49,7 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Built-in FPS capper (30fps-240fps)
 * Beta Performance mode fflag used
 * Enables grey sky to increase performance
+* Disables anti aliasing
 
 # MAX Graphic file changes:
 * Enables chrome ui menu
@@ -57,6 +59,7 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Enables pre 2022 textures
 * Enables water reflection
 * Built-in FPS capper (30fps-240fps)
+* Disables anti aliasing
 ---
 # Preview of the settings
 (*settings without*) ![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/8fd0f296-96ff-44c6-ba77-1feee26681e1)
