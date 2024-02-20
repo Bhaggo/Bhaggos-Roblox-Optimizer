@@ -15,3 +15,11 @@ Includes
 Simple program so far, will update it regularly time to time and I will also create a complete revamp one day coded in C++ so it can work for mac users and also I would revamp if it gets a lot of downloads or something.
 
 Jsons compiled using bloxstrap, please support them :) :https://github.com/pizzaboxer/bloxstrap
+
+---
+
+# Instructions:
+
+1. Download "Bhaggos Roblox Optimizer.exe" from the releases tab
+2. Allow it to be kept on the computer
+3. 
