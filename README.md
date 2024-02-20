@@ -39,7 +39,7 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Disable player shadows
 
 # MAX FPS file changes:
-* Force voxel lighting
+* Force voxel lighting (may not work properly with some games)
 * Disable shadows
 * Disable textures
 * Disable telemetry
