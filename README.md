@@ -33,7 +33,7 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 
 # Basic changes:
 * Disable telemetry
-* Built-in FPS Unlocker
+* Built-in FPS capper (30fps-240fps)
 * Beta performance mode fflag used
 * Disable Post FX
 * Disable player shadows
@@ -43,7 +43,7 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Disable shadows
 * Disable textures
 * Disable telemetry
-* Built-in FPS Unlocker
+* Built-in FPS capper (30fps-240fps)
 * Beta Performance mode fflag used
 * Enables grey sky to increase performance
 
@@ -54,4 +54,5 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Enables "Future is bright phase 3" lighting technology
 * Enables pre 2022 textures
 * Enables water reflection
+* Built-in FPS capper (30fps-240fps)
 ---
