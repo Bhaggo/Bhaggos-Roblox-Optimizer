@@ -14,7 +14,7 @@ Includes
 
 Simple program so far, will update it regularly time to time and I will also create a complete revamp one day coded in C++ so it can work for mac users and also I would revamp if it gets a lot of downloads or something.
 
-Jsons compiled using bloxstrap, please support them :) :https://github.com/pizzaboxer/bloxstrap
+Jsons compiled using bloxstraps built in fast flag editor, please support them :) :https://github.com/pizzaboxer/bloxstrap
 
 ---
 
@@ -22,4 +22,34 @@ Jsons compiled using bloxstrap, please support them :) :https://github.com/pizza
 
 1. Download "Bhaggos Roblox Optimizer.exe" from the releases tab
 2. Allow it to be kept on the computer
-3. 
+3. If the "Windows protected your PC" window shows up, click "More info" and then "Run Anyway"
+4. Make sure you run this in admin so the ui of the app does not break
+5. Follow steps on the youtube video provided: https://youtu.be/vgzzBgI9vt0
+6. You're done with the process. You can always revert the changes through the app and if you want to uninstall, just uninstall the app by deleting the .bat file or the .exe file.
+
+---
+# Specific changes it does to your ROBLOX:
+
+# Basic changes:
+* Disable telemetry
+* Built-in FPS Unlocker
+* Beta performance mode fflag used
+* Disable Post FX
+* Disable player shadows
+
+# MAX FPS file changes:
+* Force voxel lighting
+* Disable shadows
+* Disable textures
+* Disable telemetry
+* Built-in FPS Unlocker
+* Beta Performance mode fflag used
+* Enables grey sky to increase performance
+
+# MAX Graphic file changes:
+* Enables chrome ui menu
+* Forces future lighting technology
+* Higher resolution textures
+* Enables "Future is bright phase 3" lighting technology
+* Enables pre 2022 textures
+* Enables water reflection
