@@ -1,6 +1,7 @@
 # Bhaggo's Roblox Optimizer (B.R.O)
 
-![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/92acd505-fbed-4763-8457-6dda22f41069)
+![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/0d2c86ee-fa27-46f1-ab49-b765890b2a88)
+
 
 simple program created in batch to replace files in roblox that increases fps
 
