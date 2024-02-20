@@ -28,6 +28,8 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 5. Follow steps on the youtube video provided: https://youtu.be/vgzzBgI9vt0
 6. You're done with the process. You can always revert the changes through the app and if you want to uninstall, just uninstall the app by deleting the .bat file or the .exe file.
 
+**If you are using bloxstrap, my files will not transfer over, make sure you change your default apps to open roblox links in your browser and make sure it opens the default roblox player beta.exe file.**
+
 ---
 # Specific changes it does to your ROBLOX:
 
