@@ -54,9 +54,11 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Cache size for meshes set to 256 to less likely memory leak
 * Sets a cache limit for meshes
 * Lower terrain quality (low-poly like)
-* Removes grass and grass waving
+* Removes grass and grass waving animations
 * Removes light tracing
 * Enables exclusive fullscreen
+* Sets maximum texture size to 1024
+* Sets graphics quality to not change when increasing graphic levels (1-21)
 
 # MAX Graphic file changes:
 * Enables chrome ui menu
