@@ -50,6 +50,13 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Beta Performance mode fflag used
 * Enables grey sky to increase performance
 * Disables anti aliasing
+* Enables longer AFK times
+* Cache size for meshes set to 256 to less likely memory leak
+* Sets a cache limit for meshes
+* Lower terrain quality (low-poly like)
+* Removes grass and grass waving
+* Removes light tracing
+* Enables exclusive fullscreen
 
 # MAX Graphic file changes:
 * Enables chrome ui menu
