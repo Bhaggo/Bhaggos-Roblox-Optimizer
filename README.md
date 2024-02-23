@@ -58,6 +58,7 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Removes light tracing
 * Enables exclusive fullscreen
 * Sets maximum texture size to 1024
+* Disables shaders after increasing quality
 * Sets graphics quality to not change when increasing graphic levels (1-21)
 * Disables Post Fx
 
