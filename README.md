@@ -59,6 +59,7 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 * Enables exclusive fullscreen
 * Sets maximum texture size to 1024
 * Sets graphics quality to not change when increasing graphic levels (1-21)
+* Disables Post Fx
 
 # MAX Graphic file changes:
 * Enables chrome ui menu
