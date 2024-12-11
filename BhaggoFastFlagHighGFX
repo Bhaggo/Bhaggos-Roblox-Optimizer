@@ -48,6 +48,5 @@
   "FFlagEnableAccessibilitySettingsEffectsInExperienceChat": "True",
   "DFIntNumAssetsMaxToPreload": "9999999",
   "FFlagLuaAppSystemBar": "False",
-  "FFlagRenderUnifiedLighting9": "True",
-  "FIntRomarkStartWithGraphicQualityLevel": "1"
+  "FFlagRenderUnifiedLighting9": "True"
 }
