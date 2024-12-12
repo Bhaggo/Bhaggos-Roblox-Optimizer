@@ -33,7 +33,7 @@
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
   "FFlagNewLightAttenuation": "False",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FIntDebugForceMSAASamples": "1",
+  "FIntDebugForceMSAASamples": "8",
   "FFlagAXAccessoryAdjustment": "True",
   "FFlagEnableInGameMenuV3": "False",
   "DFIntTimestepArbiterThresholdCFLThou": "300",
