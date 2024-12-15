@@ -1,9 +1,8 @@
-
-    12.10.24 ( The latest update version up to this date is : 1.0.4 )
+* 12.10.24 ( The latest update version up to this date is : 1.0.4 )
 
 - Major Update: File has been updated for the first time since February 2024.
 
-- Auto-Update Feature: The batch file will now automatically update itself whenever a new version is available on GitHub.
+- Auto-Update Feature: The batch file will now automatically update itself whenever a new version is available.
 
 - FastFlags Management: FastFlags will be added or removed automatically based on user frequency for the program.
 
