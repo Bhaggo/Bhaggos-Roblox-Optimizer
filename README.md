@@ -1,5 +1,5 @@
----
-# Bhaggo's Roblox Optimizer (B.R.O)
+
+# Bhaggo's Roblox Optimizer (B.R.O) 🔧
 
 ![image](https://github.com/user-attachments/assets/ef9d8477-33c2-474f-a59b-d12428ff4524)
 
@@ -19,9 +19,8 @@ Includes instant changing settings such as:
 5. Follow steps on the youtube video provided: https://youtu.be/vgzzBgI9vt0
 6. You're done with the process. You can always revert the changes through the app and if you want to uninstall, just uninstall the app by deleting the .bat file or the .exe file.
 
-**If you are using bloxstrap, my files will not transfer over, make sure you change your default apps to open roblox links in your browser and make sure it opens the default roblox player beta.exe file.**
+# If you are using bloxstrap, my files ****WILL**** transfer over to your settings
 
----
 # Specific changes it does to your ROBLOX:
 
 # Overall setting changes:
