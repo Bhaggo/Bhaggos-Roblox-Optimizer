@@ -1,23 +1,14 @@
 ---
 # Bhaggo's Roblox Optimizer (B.R.O)
 
-![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/0d2c86ee-fa27-46f1-ab49-b765890b2a88)
+![image](https://github.com/user-attachments/assets/ef9d8477-33c2-474f-a59b-d12428ff4524)
 
 
 simple program created in batch to replace files in roblox that increases fps
 
-Includes
-* fps unlocker
-* renderer changer
-* max fps file from @BhaggoYT
-* max graphics file from @BhaggoYT
-* basic changes with renderer changer
+Includes instant changing settings such as:
+* 
 
-Simple program so far, will update it regularly time to time and I will also create a complete revamp one day coded in C++ so it can work for mac users and also I would revamp if it gets a lot of downloads or something.
-
-Jsons compiled using bloxstraps built in fast flag editor, please support them :) :https://github.com/pizzaboxer/bloxstrap
-
----
 
 # Instructions:
 
@@ -33,46 +24,35 @@ Jsons compiled using bloxstraps built in fast flag editor, please support them :
 ---
 # Specific changes it does to your ROBLOX:
 
-# Basic changes:
-* Disable telemetry
+# Overall setting changes:
 * Built-in FPS capper (30fps-240fps)
 * Beta performance mode fflag used
 * Disable Post FX
 * Disable player shadows
 * Disables anti aliasing
+* (lower overall just gives voxel and less texture quality)
 
-# MAX FPS file changes:
+# Super Low GFX setting changes:
 * Force voxel lighting (may not work properly with some games)
 * Disable shadows
 * Disable textures
-* Disable telemetry
-* Built-in FPS capper (30fps-240fps)
 * Beta Performance mode fflag used
 * Enables grey sky to increase performance
 * Disables anti aliasing
 * Enables longer AFK times
-* Cache size for meshes set to 256 to less likely memory leak
 * Sets a cache limit for meshes
 * Lower terrain quality (low-poly like)
 * Removes grass and grass waving animations
 * Removes light tracing
-* Enables exclusive fullscreen
 * Sets maximum texture size to 1024
 * Disables shaders after increasing quality
-* Sets graphics quality to not change when increasing graphic levels (1-21)
 * Disables Post Fx
 
 # MAX Graphic file changes:
-* Enables chrome ui menu
 * Forces future lighting technology
 * Higher resolution textures
 * Enables "Future is bright phase 3" lighting technology
-* Enables pre 2022 textures
-* Enables water reflection
-* Built-in FPS capper (30fps-240fps)
-* Disables anti aliasing
----
+* Enables water reflection fastflag
 # Preview of the settings
-(*settings without*) ![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/8fd0f296-96ff-44c6-ba77-1feee26681e1)
+![image](https://github.com/user-attachments/assets/55b60cb1-4ce8-48b3-9eeb-c94fd84d8e4f)
 
-(*settings with*) ![image](https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer/assets/60365231/1fd3b7b6-893d-40bf-a416-1a1d102a1f40)
