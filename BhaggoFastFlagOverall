@@ -24,7 +24,6 @@
   "FFlagNullCheckCloudsRendering": "True",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "DFIntAvatarFaceChatHeadRollLimitDegrees": "360",
-  "FIntRenderLocalLightUpdatesMin": "1",
   "FFlagPreloadTextureItemsOption4": "True",
   "FIntRenderLocalLightUpdatesMax": "1",
   "DFFlagUseVisBugChecks": "True",
@@ -42,8 +41,6 @@
   "FFlagAXAccessoryAdjustmentIXPEnabled": "True",
   "FFlagControlBetaBadgeWithGuac": "false",
   "FFlagEnableInGameMenuModernization": "True",
-  "FFlagDebugDisableTelemetryEventIngest": "True",
-  "FIntReportDeviceInfoRollout": "0",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
   "FIntCameraMaxZoomDistance": "99999",
   "FIntRobloxGuiBlurIntensity": "0",
@@ -74,7 +71,6 @@
   "FFlagLuaAppGenreUnderConstruction": "False",
   "FFlagChatTranslationEnableSystemMessage": "False",
   "FFlagToastNotificationsProtocolEnabled2": "False",
-  "DFIntDebugFRMQualityLevelOverride": "1",
   "FFlagMovePrerender": "True",
   "FFlagBetterTrackpadScrolling": "True"
 }
