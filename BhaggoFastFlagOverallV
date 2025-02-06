@@ -78,11 +78,12 @@
   "FFlagToastNotificationsProtocolEnabled2": "False",
   "DFIntDebugFRMQualityLevelOverride": "1",
   "FLogNetwork": "7",
-  "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagDebugSkipMeshVoxelizer": "True",
   "DFFlagDebugPauseVoxelizer": "True",
   "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "2",
+  "DFIntTextureQualityOverride": "1",
   "FFlagMovePrerender": "True",
-  "FFlagBetterTrackpadScrolling": "True"
+  "FFlagBetterTrackpadScrolling": "True",
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FFlagDebugGraphicsPreferD3D11": "True"
 }
