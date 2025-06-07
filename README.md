@@ -12,7 +12,7 @@ Includes instant changing settings such as:
 
 # Instructions:
 
-1. Download "Bhaggos Roblox Optimizer.exe" from the releases tab
+1. Download "B.R.O.bat" from the releases tab
 2. Allow it to be kept on the computer
 3. If the "Windows protected your PC" window shows up, click "More info" and then "Run Anyway"
  ![image](https://github.com/user-attachments/assets/82666228-b98e-41a3-99f3-b1127c002f96)
