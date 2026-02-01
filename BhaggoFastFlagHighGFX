@@ -1,6 +1,12 @@
 {
     "DFFlagTextureQualityOverrideEnabled": "True",
     "DFFlagDisableDPIScale": "True",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL12": "1500",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL23": "1000",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL34": "500",
+    "DFIntCSGLevelOfDetailSwitchingDistance": "2000",
+    "DFIntDebugFRMQualityLevelOverride": "21",
     "DFIntTextureQualityOverride": "3",
-    "FFlagHandleAltEnterFullscreenManually": "False"
+    "FFlagHandleAltEnterFullscreenManually": "False",
+    "FIntDebugForceMSAASamples": "8"
 }
