@@ -1,6 +1,5 @@
 {
     "DFFlagTextureQualityOverrideEnabled": "True",
-    "DFFlagDebugPauseVoxelizer": "True",
     "DFFlagDisableDPIScale": "True",
     "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
     "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
