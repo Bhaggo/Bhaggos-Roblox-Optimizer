@@ -1,5 +1,6 @@
 {
     "DFFlagTextureQualityOverrideEnabled": "True",
+    "DFFlagDebugPauseVoxelizer": "True",
     "DFFlagDisableDPIScale": "True",
     "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
     "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
@@ -8,9 +9,10 @@
     "DFIntDebugFRMQualityLevelOverride": "1",
     "DFIntTextureQualityOverride": "0",
     "FFlagHandleAltEnterFullscreenManually": "False",
+    "FFlagDebugGraphicsPreferD3D11": "True",
     "FFlagDebugSkyGray": "True",
     "FIntGrassMovementReducedMotionFactor": "0",
     "FIntDebugForceMSAASamples": "1",
-    "FIntFRMMaxGrassDistance": "0",
-    "FIntFRMMinGrassDistance": "0"
+    "FIntFRMMinGrassDistance": "0",
+    "FIntFRMMaxGrassDistance": "0"
 }
