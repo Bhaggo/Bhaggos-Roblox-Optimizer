@@ -15,7 +15,7 @@ Includes instant changing settings such as:
 1. Download "B.R.O.bat" from the releases tab
 2. Allow it to be kept on the computer
 3. If the "Windows protected your PC" window shows up, click "More info" and then "Run Anyway"
- ![image](https://github.com/user-attachments/assets/82666228-b98e-41a3-99f3-b1127c002f96)
+<img width="737" height="338" alt="image" src="https://github.com/user-attachments/assets/daad6b40-4def-40f6-bdab-95e209c4eeec" />
 5. You're done with the process. You can always revert the changes through the app and if you want to uninstall, just uninstall the app by deleting the .bat file or the .exe file.
 
 # Preview of the settings (as of 2.2.26)
