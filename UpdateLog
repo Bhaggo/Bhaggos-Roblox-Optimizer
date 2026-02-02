@@ -1,9 +1,5 @@
-* 12.27.24 ( The latest update version up to this date is : 1.0.5 )
+* 2.1.26 ( The latest update version up to this date is : 1.6.7 )
 
-- Changes from appsettings lookup to exe because the 1.0.5 deletes roblox studio.
+- Changed flags to fit roblox's new fast flag standards.
+- Added support for Fishstrap, Voidstrap and Froststrap.
 
-- Renames roblox studio folder to roblox studio folder for organization
-
-- Deletes any unused roblox folders for clarity and space.
-
-- Applies faster by about a few miliseconds by removing some timeouts
