@@ -8,5 +8,6 @@
     "DFIntDebugFRMQualityLevelOverride": "21",
     "DFIntTextureQualityOverride": "3",
     "FFlagHandleAltEnterFullscreenManually": "False",
-    "FIntDebugForceMSAASamples": "8"
+    "FIntDebugForceMSAASamples": "4"
 }
+
