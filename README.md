@@ -1,6 +1,6 @@
 
 # Bhaggo's Roblox Optimizer (B.R.O) 🔧
-
+![](https://img.shields.io/github/downloads/Bhaggo/Bhaggos-Roblox-Optimizer/total)
 <img width="992" height="570" alt="image" src="https://github.com/user-attachments/assets/4a07b594-2f71-4963-bc23-4bbf0490e96b" />
 
 
